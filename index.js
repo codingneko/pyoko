@@ -8,7 +8,7 @@ function createWindow () {
         resizable: false,
         x:0,
         y:780,
-        alwaysOnTop:true,
+        alwaysOnTop: true,
         transparent: true,
         frame: false,
         webPreferences: {
