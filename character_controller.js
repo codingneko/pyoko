@@ -1,6 +1,8 @@
+const drag = require("electron-drag");
+drag(character);
+
 var character = document.getElementById("character");
 var status = "idle";
-
 
 function idle(){
     if(status === "idle"){

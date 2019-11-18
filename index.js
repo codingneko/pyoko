@@ -1,5 +1,5 @@
 const electron = require('electron');
-const {app, BrowserWindow, screen} = require('electron');
+const {app, BrowserWindow} = require('electron');
 
 function createWindow () {
     let win = new BrowserWindow({
@@ -8,6 +8,7 @@ function createWindow () {
         resizable: false,
         x:0,
         y:780,
+        alwaysOnTop:true,
         transparent: true,
         frame: false,
         webPreferences: {

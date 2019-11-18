@@ -9,6 +9,10 @@
   "author": "CodingNeko",
   "license": "Unlicense",
   "dependencies": {
-    "electron": "7.1.0"
+    "electron-drag": "^1.2.2"
+  },
+  "devDependencies": {
+    "electron": "7.1.0",
+    "electron-rebuild": "^1.8.6"
   }
 }
