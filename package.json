@@ -1,0 +1,14 @@
+{
+  "name": "Pyoko",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "CodingNeko",
+  "license": "Unlicense",
+  "dependencies": {
+    "electron": "7.1.0"
+  }
+}
