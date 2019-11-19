@@ -1,5 +1,6 @@
 {
-  "name": "Pyoko",
+  "name": "pyoko",
+  "icon": "icons/16x16.png",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
