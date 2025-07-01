@@ -13,7 +13,7 @@
     "electron-drag": "^1.2.2"
   },
   "devDependencies": {
-    "electron": "22.3.25",
+    "electron": "28.3.2",
     "electron-rebuild": "^1.8.6"
   }
 }
